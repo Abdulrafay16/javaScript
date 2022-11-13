@@ -1,0 +1,49 @@
+/* /* body{
+    background-color: black !important;
+} */
+/* .carousel-item , img{
+    height: 30% !important; 
+    width: 50% !important;
+}
+h5 ,p {
+    color: black;
+}
+
+.Card {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+}
+.card-img-top{
+    height: 10%;
+}  */
+
+/* #header{
+    background-color:silver;
+    display: flex;
+    align-items: center;
+}
+
+ ul ,li{
+    font-size: large;
+    font-weight: 900;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin: 15px 50px;
+} */
+
+/* #test{
+    background-color: rgb(235, 128, 187);
+} */
+
+ select ,input{
+    display: flex;
+    justify-content: center;
+}
+
+#tests{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+}
